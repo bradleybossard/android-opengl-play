@@ -1,14 +1,16 @@
 package com.bradleybossard.openglexample.app;
 
+import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.pm.ConfigurationInfo;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+//import android.support.v7.app.ActionBarActivity;
 
 
-public class MainActivity extends ActionBarActivity {
+//public class MainActivity extends ActionBarActivity {
+public class MainActivity extends Activity {
 
     /** Hold a reference to our GLSurfaceView */
     private GLSurfaceView mGLSurfaceView;
