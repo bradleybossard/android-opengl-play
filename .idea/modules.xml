@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenGlExample.iml" filepath="$PROJECT_DIR$/OpenGlExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-opengl-play.iml" filepath="$PROJECT_DIR$/android-opengl-play.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
